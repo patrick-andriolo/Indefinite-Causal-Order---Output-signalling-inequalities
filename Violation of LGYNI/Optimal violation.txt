@@ -1,0 +1,224 @@
+Process matrix W in Pauli basis
+===============================
+W
+-
+dimension: 16 x 16
+number of qubits: 4
+terms shown with |coefficient| > 0.01
+
+0.25 * I ⊗ I ⊗ I ⊗ I
+0.10957 * X ⊗ I ⊗ Y ⊗ I
+0.108844 * Y ⊗ I ⊗ X ⊗ I
+-0.0946816 * X ⊗ I ⊗ X ⊗ I
+0.0843526 * Z ⊗ I ⊗ Z ⊗ I
+0.0659314 * Z ⊗ I ⊗ Y ⊗ Z
+-0.064421 * Y ⊗ I ⊗ I ⊗ I
+-0.0636252 * I ⊗ I ⊗ Y ⊗ I
+0.0634487 * Y ⊗ Z ⊗ Z ⊗ I
+-0.0591439 * Y ⊗ I ⊗ Z ⊗ Z
+0.0576909 * Z ⊗ I ⊗ X ⊗ Z
+-0.0576471 * Z ⊗ Z ⊗ Y ⊗ I
+0.0560789 * X ⊗ Z ⊗ Z ⊗ I
+-0.0551641 * Z ⊗ Z ⊗ Z ⊗ I
+-0.0545492 * Z ⊗ I ⊗ Y ⊗ X
+-0.0531101 * X ⊗ I ⊗ Y ⊗ Z
+-0.0526968 * Y ⊗ X ⊗ Z ⊗ I
+-0.0521946 * Y ⊗ Z ⊗ X ⊗ I
+-0.050883 * Z ⊗ I ⊗ Z ⊗ Z
+0.048932 * Y ⊗ I ⊗ Z ⊗ X
+-0.0479863 * I ⊗ I ⊗ Z ⊗ I
+0.0478808 * Z ⊗ X ⊗ Y ⊗ I
+-0.047731 * Z ⊗ I ⊗ X ⊗ X
+-0.0465755 * X ⊗ X ⊗ Z ⊗ I
+-0.0463035 * Z ⊗ I ⊗ I ⊗ I
+0.0458161 * Z ⊗ X ⊗ Z ⊗ I
+0.0439381 * X ⊗ I ⊗ Y ⊗ X
+0.0433484 * Y ⊗ X ⊗ X ⊗ I
+0.0420985 * Z ⊗ I ⊗ Z ⊗ X
+-0.0413489 * Y ⊗ Z ⊗ Y ⊗ I
+-0.0406676 * X ⊗ I ⊗ I ⊗ I
+-0.0398053 * I ⊗ I ⊗ X ⊗ I
+-0.039532 * Z ⊗ I ⊗ I ⊗ Z
+-0.039248 * Y ⊗ I ⊗ Y ⊗ Z
+0.0390987 * Y ⊗ I ⊗ Z ⊗ I
+-0.0386018 * I ⊗ Z ⊗ Z ⊗ I
+-0.036293 * Y ⊗ I ⊗ X ⊗ Z
+-0.035937 * X ⊗ Z ⊗ Y ⊗ I
+0.0343437 * Y ⊗ X ⊗ Y ⊗ I
+0.0334877 * Z ⊗ I ⊗ Y ⊗ I
+-0.033304 * X ⊗ I ⊗ Z ⊗ Z
+0.0327075 * Z ⊗ I ⊗ I ⊗ X
+0.0324694 * Y ⊗ I ⊗ Y ⊗ X
+0.0320604 * I ⊗ X ⊗ Z ⊗ I
+-0.0319892 * Z ⊗ Z ⊗ X ⊗ I
+0.0300236 * Y ⊗ I ⊗ X ⊗ X
+0.0298469 * X ⊗ X ⊗ Y ⊗ I
+0.0275546 * X ⊗ I ⊗ Z ⊗ X
+0.0265692 * Z ⊗ X ⊗ X ⊗ I
+-0.0184224 * Y ⊗ I ⊗ Y ⊗ I
+0.0162458 * I ⊗ Z ⊗ X ⊗ I
+0.0157726 * X ⊗ I ⊗ I ⊗ Z
+0.0151921 * I ⊗ Z ⊗ Y ⊗ I
+-0.015017 * X ⊗ Z ⊗ X ⊗ I
+0.0143924 * Y ⊗ I ⊗ I ⊗ Z
+-0.0134928 * I ⊗ X ⊗ X ⊗ I
+-0.0130476 * X ⊗ I ⊗ I ⊗ X
+-0.0126203 * I ⊗ X ⊗ Y ⊗ I
+-0.0125367 * X ⊗ I ⊗ X ⊗ Z
+0.0124731 * X ⊗ X ⊗ X ⊗ I
+-0.0119035 * Y ⊗ I ⊗ I ⊗ X
+-0.0105006 * Z ⊗ I ⊗ X ⊗ I
+0.0103722 * X ⊗ I ⊗ X ⊗ X
+
+
+Decomposition of Alice's instruments (POVM's and states)
+====================================
+A_E_0
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+-0.338932 * Y
+-0.278753 * X
+0.239629 * Z
+
+
+A_E_1
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+0.338932 * Y
+0.278753 * X
+-0.239629 * Z
+
+
+A_E_2
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+-0.483361 * Z
+0.111027 * X
+0.0635265 * Y
+
+
+A_E_3
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+0.483361 * Z
+-0.111027 * X
+-0.0635265 * Y
+
+
+A_rho_0
+-------
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+0.384163 * Z
+-0.319063 * X
+-0.0248579 * Y
+
+
+A_rho_1
+-------
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+-0.384163 * Z
+0.319062 * X
+0.0248578 * Y
+
+
+Decomposition of Bob's instruments (POVM's and states)
+====================================
+B_E_0
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+-0.373016 * Y
+-0.292634 * X
+0.158822 * Z
+
+
+B_E_1
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+0.373016 * Y
+0.292634 * X
+-0.158822 * Z
+
+
+B_E_2
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+-0.489096 * Z
+0.0955096 * X
+0.0407801 * Y
+
+
+B_E_3
+-----
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+0.489096 * Z
+-0.0955096 * X
+-0.0407801 * Y
+
+
+B_rho_0
+-------
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+0.384778 * Z
+-0.318346 * X
+-0.0245225 * Y
+
+
+B_rho_1
+-------
+dimension: 2 x 2
+number of qubits: 1
+terms shown with |coefficient| > 0.01
+
+0.5 * I
+-0.384778 * Z
+0.318347 * X
+0.0245229 * Y
+
+
+Minimum inequality value:
+
+0.7934128515774007
