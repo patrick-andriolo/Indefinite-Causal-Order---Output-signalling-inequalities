@@ -1,4 +1,4 @@
-In this repository we provide the codes and corresponding numerical results for the paper arXiv xxx.xxx. They're organized as follows:
+In this repository we provide the codes and corresponding numerical results for the paper [arXiv xxx.xxx](https://arxiv.org/abs/2609.31863). They're organized as follows:
 
 Sec. VI.a - "Violation of LGYNI"; 
 Sec. VI.b - "Process matrix parametrization";
